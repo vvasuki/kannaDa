@@ -1,0 +1,19 @@
+baseURL = "https://vvasuki.github.io/kAvyam/"
+languageCode = "en-us"
+title = "ಕನ್ನಡದಲ್ಲಿ ವಿಶ್ವಾಸ-ಟಿಪ್ಪಣಿಗಳು"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/kannaDa/edit/content/"
+  contactLink = "https://github.com/vvasuki/kannaDa/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe= true
