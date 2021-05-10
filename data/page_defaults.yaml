@@ -5,5 +5,5 @@
     layout: "page"
     comments: true
     search: true
-    sidebar: kAvya_sidebar
-    unicode_script: devanagari
+    sidebar: kannada_sidebar
+    unicode_script: kannada
