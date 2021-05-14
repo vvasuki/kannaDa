@@ -20,7 +20,7 @@ The temple being referred to is the Yoga Narasimha Swamy temple atop the hill in
 Rangavalli appears in his collection Haṇate, and is among his finest Bhakti poems. 
 
 ## ಪಾಠಃ
-ಮಾಗಿ+++(ಮಾಸ)+++ ಬಂದು, ಗಿರಿಗೆ ಹಗಲು 
+ಮಾಗಿ+++(ಮಾಸ)+++ ಬಂದು, ಗಿರಿಗೆ ಹಗಲು  
 ಹಿತದ ಬಿಸಿಲ ಹೊದಿಸಿದ್ ಅಂದು  
 ಹಸುಳೆ+++(=ಮಗು)+++-ಗೂಡಿ ಬೆಟ್ಟ ತುದಿಯ  
 ಗುಡಿಗೆ ನಡೆದೆನು. 
