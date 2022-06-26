@@ -7,9 +7,10 @@ unicode_script = "kannada"
 
 - ತಾಳ - ಖಂಡಚಾಪು
 - ಲೇಖಕ - ಬೀರೂರು-ಚಿದಂಬರ-ಜೋಯಿಸ
-- ಗಾನ - [ಅನೂಷಾ](https://www.facebook.com/anushacanugovirao/videos/shri-satya-narayana-vratha-katha-saraswati-samarpane-full-katha-in-kannada-for-o/1178696012533286/)
 </details>
 
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=n-44M7uBWlU" caption="ಅನೂಷಾ"></div>
 
 ಜಯ ಸತ್ಯನಾರಾಯಣ ಜಯ ಸತ್ಯಭಾಮೇಶ  
 ಜಯ ಸತ್ಯ ಗಣಪತಿಯೆ ಜಯತು ಜಯತು 
