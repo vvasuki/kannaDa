@@ -3,7 +3,13 @@ title = "ಸತ್ಯನಾರಾಯಣಕಥಾ"
 unicode_script = "kannada"
 +++
 
-ತಾಳ - ಖಂಡಚಾಪು 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- ತಾಳ - ಖಂಡಚಾಪು
+- ಲೇಖಕ - ಬೀರೂರು-ಚಿದಂಬರ-ಜೋಯಿಸ
+- ಗಾನ - [ಅನೂಷಾ](https://www.facebook.com/anushacanugovirao/videos/shri-satya-narayana-vratha-katha-saraswati-samarpane-full-katha-in-kannada-for-o/1178696012533286/)
+</details>
+
 
 ಜಯ ಸತ್ಯನಾರಾಯಣ ಜಯ ಸತ್ಯಭಾಮೇಶ  
 ಜಯ ಸತ್ಯ ಗಣಪತಿಯೆ ಜಯತು ಜಯತು 
