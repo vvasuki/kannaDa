@@ -1,6 +1,8 @@
 +++
 title = "ಸೂಲಿಬೆಲೆ-ಚಕ್ರವರ್ತಿ-2023"
 +++
+<div class="audioEmbed"  caption="वाचनम्" src="https://archive.org/download/kannada-short-lectures/sUlibele_on_ganesh.mp3"></div>
+
 
 ಚಕ್ರವರ್ತಿ ಸೂಲಿಬೆಲೆ ಅವರ ಬರೆಹ:
 
