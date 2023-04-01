@@ -4,6 +4,7 @@ title = "ದೃಷ್ಟಿ-ದಾನ"
 
 <div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=V3DpYi6e3Uo"></div>
 
+ವಿವರಣಮ್ [ಅತ್ರ](https://www.youtube.com/watch?v=9WO27kJtmBY). 
 
 ಅಲಖ್ ನಿರಂಜನ 
 
