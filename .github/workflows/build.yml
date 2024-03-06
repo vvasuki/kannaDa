@@ -47,15 +47,6 @@ jobs:
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
-    - name: Get changed files
-      id: changed-files
-      if: ${{ github.event_name != 'workflow_dispatch' }}
-      uses: tj-actions/changed-files@v41
-      with:
-        files_ignore: |
-          content/**
-
-
     - name: Update submodules
       id: update_submods
       run: |
@@ -67,9 +58,16 @@ jobs:
       uses: actions/checkout@master
       with:
         path: static
+    - name: Get changed files
+      id: changed-files
+      if: ${{ github.event_name != 'workflow_dispatch' }}
+      uses: tj-actions/changed-files@v41
+      with:
+        files_ignore: |
+          content/**
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
-      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.changed-files-yaml.outputs.test_any_changed == 'true'}}
+      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.changed-files.outputs.test_any_changed == 'true'}}
       id: setup_hugo
       with:
         hugo-version: "0.119.0"
