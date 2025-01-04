@@ -1,5 +1,0 @@
-+++
-title = "೦೦೩ ಕೋಶ ಬಲ"
-
-+++
-<div class="audioEmbed"  src="https://archive.org/download/kumAra-vyAsa-bhArata_kaGaPa_with_metadata/05_udyOga__09__003_kOsha_bala.mp3" caption="ಗ-ಪ"></div>
